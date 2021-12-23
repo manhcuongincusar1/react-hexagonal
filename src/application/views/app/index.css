@@ -1,0 +1,18 @@
+
+.app-title {
+  text-align: center;
+}
+
+.app-container {
+  margin: 0 auto;
+  padding: 0;
+}
+
+
+@media (min-width: 1281px) {
+  /* hi-res laptops and desktops */
+  .app-container {
+    width: 800px;
+  }
+}
+
